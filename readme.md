@@ -1,25 +1,12 @@
-<h1 align="center">DevLinks</h1>
+# DevLinks
 
-<p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
-</p>
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
+[Tecnologias](#-tecnologias) | [Projeto](#-projeto) | [Layout](#-layout) | [Licença](#-licença)
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
+![License](https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000)
 
-<br>
-
-<p align="center">
-  <img alt="Projeto DevLinks" src=".github/preview.jpg" width="100%">
-</p>
+![Projeto DevLinks](.github/preview.jpg)
 
 ## 🚀 Tecnologias
 
@@ -37,3 +24,7 @@ DevLinks é um agregador de links para usar como um cartão de visita online.
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/ym7DMLN526Hh3pJPpRYEBY/DevLinks-%E2%80%A2-Projeto-Discover--Community-?node-id=1437-191&t=LhCpVBVoPml8SeIV-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## 📝 Licença
+
+Este projeto está licenciado sob a licença MIT.
